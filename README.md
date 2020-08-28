@@ -19,5 +19,5 @@
 
 
 [website]: https://sites.google.com/view/lovedeepsingh
-[twitter]: https://twitter.com/iamLSingh
 [linkedin]: https://linkedin.com/in/singhlovedeep
+[twitter]: https://twitter.com/iamLSingh
