@@ -16,7 +16,6 @@
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" target="_blank"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
----
 
 
 [website]: https://sites.google.com/view/lovedeepsingh
