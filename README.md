@@ -5,8 +5,8 @@
 ## I'm a Software Engineer! I recently graduated with a Bachelors in Computer Science.
 
 - 🔭 I’m currently working as a SWE!
-- 🌱 I’m always learning everything 
-- 🥅 Goals: Learn and Contribute
+- 🌱 I’m always learning 
+- 🥅 Goals: Learn and Grow, and Contribute
 - ⚡ Fun fact: I like to design, I am an artist.
 
 ### Fine me on:
