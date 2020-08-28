@@ -9,8 +9,6 @@
 - 🥅 Goals: Learn and Contribute
 - ⚡ Fun fact: I like to design, I am an artist.
 
-Fell free to reach me
-
 ### Fine me on:
 
 [<img align="left" alt="" width="22px" target="_blank"  src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
