@@ -17,7 +17,6 @@
 
 <br />
 
-
-[website]: https://sites.google.com/view/lovedeepsingh
 [linkedin]: https://linkedin.com/in/singhlovedeep
+[website]: https://sites.google.com/view/lovedeepsingh
 [twitter]: https://twitter.com/iamLSingh
