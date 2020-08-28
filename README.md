@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on a System Design, ML and NLP!
 - 🌱 I’m always learning everything 
 - 🥅 Goals: Learn and Contribute
-- ⚡ Fun fact: I like to design, I am an artist. I love to design and play/watch cricket.
+- ⚡ Fun fact: I like to design, I am an artist. I enjoy to play/watch cricket.
 
 ### Connect with me:
 
