@@ -9,7 +9,7 @@
 - 🥅 Goals: Learn and Contribute
 - ⚡ Fun fact: I like to design, I am an artist. I enjoy to play/watch cricket.
 
-### Connect with me:
+### Fine me on:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" target="_blank"  src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" target="_blank"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
