@@ -4,7 +4,7 @@
 
 ## I'm a Software Engineer! I recently graduated with a Bachelors in Computer Science.
 
-- 🔭 I’m currently working on a System Design, ML and NLP!
+- 🔭 I’m currently working as a SWE!
 - 🌱 I’m always learning everything 
 - 🥅 Goals: Learn and Contribute
 - ⚡ Fun fact: I like to design, I am an artist. I enjoy to play/watch cricket.
