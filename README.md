@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=personal_website&style=for-the-badge&url=https%3A%2F%2Fsites.google.com/view/lovedeepsingh)](https://sites.google.com/view/lovedeepsingh)
 
-## I'm a Learner, Student, Developer, and Software Engineer!
+## I'm a Software Engineer!
 
 - 🔭 I’m currently working on a System Design, ML and NLP!
 - 🌱 I’m always learning everything 
