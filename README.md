@@ -7,7 +7,7 @@
 - 🔭 I’m currently working as a SWE!
 - 🌱 I’m always learning 
 - 🥅 Goals: Learn and Grow, and Contribute
-- ⚡ Fun fact: I like to design, I am an artist.
+- ⚡ Fun fact: I like to Design, I am an Artist.
 
 ### Fine me on:
 
