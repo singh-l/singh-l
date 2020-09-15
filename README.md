@@ -17,7 +17,7 @@
 <br />
 
 ##### Thanks for the visit, have a nice weekend, Cheers!!!
-##### With Love,
+##### Regards,
 ##### Lovedeep
 
 [linkedin]: https://linkedin.com/in/singhlovedeep
