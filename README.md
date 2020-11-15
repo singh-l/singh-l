@@ -12,7 +12,7 @@
 
 [<img align="left" alt="" width="22px" target="_blank"  src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt=" | LinkedIn" width="22px" target="_blank"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt=" | Twitter" width="22px" target="_blank"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+<!--- [<img align="left" alt=" | Twitter" width="22px" target="_blank"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] --->
 
 <br />
 
@@ -20,4 +20,4 @@
 
 [linkedin]: https://linkedin.com/in/singhlovedeep
 [website]: https://sites.google.com/view/lovedeepsingh
-[twitter]: https://twitter.com/iamLSingh
+<!---[twitter]: https://twitter.com/iamLSingh --->
