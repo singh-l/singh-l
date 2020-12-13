@@ -10,8 +10,8 @@
 
 ### Fine me on:
 
-[<img align="left" alt="" width="22px" target="_blank"  src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt=" | LinkedIn" width="22px" target="_blank"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="" width="22px" target="_blank"  src="https://p13cdn4static.sharpschool.com/UserFiles/Servers/Server_298034/Image/WorldWideWeb.jpg" />][website]
+[<img align="left" alt=" | LinkedIn" width="22px" target="_blank"  src="https://is4-ssl.mzstatic.com/image/thumb/Purple124/v4/77/8e/93/778e9381-6b43-08dd-e532-ee3eb64876c0/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1200x630wa.png" />][linkedin]
 [<img align="left" alt=" | LinkedIn" width="22px" target="_blank"  src="https://leetcode.com/static/images/LeetCode_logo.png" />][LeetCode]
 <!--- [<img align="left" alt=" | Twitter" width="22px" target="_blank"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] --->
 
