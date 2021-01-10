@@ -8,7 +8,7 @@
 - 🌱 I’m always learning 
 - 🥅 Goals: Learn and Grow, and Contribute
 
-### Fine me on:
+### Find me on:
 
 [<img align="left" alt="" width="22px" target="_blank"  src="https://freepngimg.com/thumb/world_wide_web/25085-2-world-wide-web-transparent-image.png" />][website]
 [<img align="left" alt=" | LinkedIn" width="22px" target="_blank"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy-TZipv8mF4zDszEHp15pADsjs4XkbuvZQg&usqp=CAU" />][linkedin]
