@@ -22,6 +22,6 @@
 
 [linkedin]: https://linkedin.com/in/singhlovedeep
 [website]: https://sites.google.com/view/lovedeepsingh
-[LeetCode]: https://leetcode.com/lovedeep
+<!---[LeetCode]: https://leetcode.com/lovedeep --->
 [GoogleScholar]: https://scholar.google.com/citations?user=WC6fo10AAAAJ&hl=en
 <!---[twitter]: https://twitter.com/iamLSingh --->
