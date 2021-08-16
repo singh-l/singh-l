@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=personal_website&style=for-the-badge&url=https%3A%2F%2Fsites.google.com/view/lovedeepsingh)](https://sites.google.com/view/lovedeepsingh) 
 
-## I'm a Software Engineer!, working at D. E. Shaw India
+## I'm a Software Engineer, working at D. E. Shaw India
 
 - 🔭 I’m currently working as a SWE!
 - 🌱 I’m always learning 
