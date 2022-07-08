@@ -4,7 +4,7 @@
 
 ## I'm a Software Engineer, working at D. E. Shaw India
 
-- 🔭 I’m currently working as a SWE!
+- 🔭 I’m currently working as a Senior Member Technical!
 - 🌱 I’m always learning 
 - 🥅 Goals: Learn and Grow, and Contribute
 
