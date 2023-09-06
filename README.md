@@ -1,8 +1,8 @@
-### Hi there, I'm Lovedeep Singh 👋 
+### Hi there, I am Lovedeep Singh 👋 
 
 [![Website](https://img.shields.io/website?label=personal_website&style=for-the-badge&url=https%3A%2F%2Fsites.google.com/view/lovedeepsingh)](https://sites.google.com/view/lovedeepsingh) 
 
-## I'm a Software Engineer, working at D. E. Shaw
+## I am a Software Engineer, working at D. E. Shaw
 
 - 🔭 I’m currently working as a Senior Member Technical!
 - 🌱 I’m always learning 
