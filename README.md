@@ -4,9 +4,9 @@
 
 ## I am a Software Engineer, working at D. E. Shaw
 
-- 🔭 I’m currently working as a Senior Member Technical!
-- 🌱 I’m always learning 
-- 🥅 Goals: Learn and Grow, and Contribute
+- 🔭 I am currently working as a Senior Member Technical!
+- 🌱 I am always learning 
+- 🥅 Goals: Learn, Grow, and Contribute
 
 ### Find me on:
 
