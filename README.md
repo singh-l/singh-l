@@ -21,7 +21,7 @@
 <h5> Thanks for the visit, have a nice weekend, Cheers!!! <br/> Regards, <br/> Lovedeep </h5>
 
 [linkedin]: https://linkedin.com/in/singhlovedeep
-[website]: https://sites.google.com/view/lovedeepsingh
+[website]: https://www.singhlovedeep.com
 [LeetCode]: https://leetcode.com/lovedeep
 [GoogleScholar]: https://scholar.google.com/citations?user=WC6fo10AAAAJ&hl=en
 <!---[twitter]: https://twitter.com/iamLSingh --->
