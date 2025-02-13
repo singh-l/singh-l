@@ -4,7 +4,7 @@
 
 ## I am a Software Engineer, working at D. E. Shaw
 
-- 🔭 I am currently working as a Senior Member Technical!
+- 🔭 I am currently working as a Tech Lead!
 - 🌱 I am always learning 
 - 🥅 Goals: Learn, Grow, and Contribute
 
